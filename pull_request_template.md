@@ -2,9 +2,8 @@ This pull request addresses issue #1.
 
 ## Proposed Changes
 
-- Added a new feature that allows users to reset their password.
-- Implemented validation checks for password strength.
-- Updated the user interface to include a "Forgot Password" link.
+- Made backup of group assignment
+- Used backup to trial the pull request to see any errors
 
 ## Reviewer
 
